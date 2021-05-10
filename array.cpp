@@ -16,6 +16,6 @@ int main(int argc, char *argv[])
     	for (int i=0; i<N; i++){
     	   cout<<(arr[N-(i+1)]);
     	   cout<<" ";
-    	}
+    	   }	
 	}
 }
