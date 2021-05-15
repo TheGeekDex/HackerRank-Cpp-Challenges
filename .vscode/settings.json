@@ -1,5 +1,7 @@
 {
     "files.associations": {
         "new": "cpp"
-    }
+    },
+    "jupyter.jupyterServerType": "local",
+    "python.pythonPath": "C:\\Users\\Vishal\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"
 }
